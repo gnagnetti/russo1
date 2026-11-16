@@ -1,0 +1,8 @@
+{
+  "name": "Russian Grammar Tests",
+  "description": "An interactive quiz application to practice Russian grammar based on II certification level tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
